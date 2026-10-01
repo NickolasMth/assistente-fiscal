@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+*.key
+*.pem
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Temporários
+temp/
+tmp/git 
